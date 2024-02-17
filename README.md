@@ -1,1 +1,5 @@
-**Automation Test with Cypress**
+## Install
+```sh
+yarn
+```
+
