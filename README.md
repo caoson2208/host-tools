@@ -5,6 +5,9 @@
 1. [git](https://git-scm.com/)
 
 ## Setup
-1. clone repository from git.
+1. Clone repository from git.
 1. Install cypress via npm: `npm install cypress --save-dev`
-1. open: `npx cypress open`
+
+
+## Run The Tests
+1. Open: `npx cypress open`
